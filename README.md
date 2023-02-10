@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devhdez
-- 👀 I’m interested in front-end developing (for now...)
+- 👀 I’m interested in front-end developing.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on anything really!
 - 📫 How to reach me? hrborja@gmail.com
