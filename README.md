@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devhdez
-- 👀 I’m interested in front-end developing.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 👀 I’m interested in front-end web development.
+- 🌱 I’m currently learning React!
 - 💞️ I’m looking to collaborate on anything really!
 - 📫 How to reach me? hrborja@gmail.com
 
